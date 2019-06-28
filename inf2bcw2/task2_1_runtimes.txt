@@ -1,0 +1,30 @@
+task2_1(Xtrn, Ytrn, Xtst, Ytst, Ks)
+Elapsed time is 22.425480 seconds.
+k: 1
+N: 4017
+Nerrs: 132
+acc: 0.96714
+
+Elapsed time is 22.036954 seconds.
+k: 3
+N: 4017
+Nerrs: 116
+acc: 0.971123
+
+Elapsed time is 21.991079 seconds.
+k: 5
+N: 4017
+Nerrs: 132
+acc: 0.96714
+
+Elapsed time is 22.084308 seconds.
+k: 10
+N: 4017
+Nerrs: 137
+acc: 0.965895
+
+Elapsed time is 22.153674 seconds.
+k: 20
+N: 4017
+Nerrs: 150
+acc: 0.962659
